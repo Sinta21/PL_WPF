@@ -1,0 +1,15 @@
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csprojAssemblyReference.cache
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.g.cs
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\App.g.cs
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.cache
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.lref
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.pdb
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.baml
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.g.resources
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.Properties.Resources.resources
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.GenerateResource.cache
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.CoreCompileInputs.cache
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.exe
+E:\21.11.4423\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.pdb
